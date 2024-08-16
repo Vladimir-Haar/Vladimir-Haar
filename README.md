@@ -11,8 +11,8 @@
 <p> </p>
 <p></p>
 <p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimir-haar&show_icons=true&locale=en&layout=compact" alt="vladimir-haar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimir-haar&show_icons=true&locale=en&layout=compact" alt="vladimir-haar" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir-haar&" alt="vladimir-haar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir-haar&" alt="vladimir-haar" /></p>
 
