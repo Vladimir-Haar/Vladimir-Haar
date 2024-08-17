@@ -1,6 +1,13 @@
 <h1 align="center">Hallo, ich bin Vladimir Haar</h1>
-<h3 align="center">Ich bin ein Fachinformatiker Anwendungsentwicklung aus Deutschland</h3>
 
+<h2 align="center">Mein Werdegang im IT Bereich:</h2>
+<h3 align="center">12.2022 - bis heute: Java leicht gemacht. Der umfassende Java Kurs von www.Udemy.com</h3>
+<h3 align="center">11.2023 - 10.2024: Python mit Inhalten Django und Data Science von www.Udemy.com</h3>
+<h3 align="center">06.2024 - 11.2024: MySQL vom Anfänger zum Experten von www.Udemy.com</h3>
+<h3 align="center">07.2024 - 06.2026: Umschulung als Fachinformatiker Anwendungsentwicklung</h3>
+
+
+<br><br>
 <p align="center">📫 How to reach me **haar.vlad@gmx.de**
 
 <p align="center">
