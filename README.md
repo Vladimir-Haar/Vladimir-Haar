@@ -11,7 +11,7 @@
 
 
 <br><br>
-<p align="center"> Stehe zur Verfügung für neue und interessante Projekte<br> **haar.vlad@gmx.de**
+<p align="center"> Ich stehe zur Verfügung für neue und interessante Projekte<br> **haar.vlad@gmx.de**
 
 <p align="center">
 
