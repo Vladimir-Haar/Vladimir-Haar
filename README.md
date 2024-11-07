@@ -9,7 +9,7 @@
 
 <h3 align="center">07.2024 - 06.2026: Umschulung als Fachinformatiker Anwendungsentwicklung</h3>
 
-<h3 align="center">In meiner Freizeit programmiere ich Kryptobots, betreibe mehrere Server auf Basis von Proxmox<br> und eigne mir ständig neue IT-Fähigkeiten an.</h3>
+<h3 align="center">In meiner Freizeit programmiere ich Kryptobots, betreibe mehrere Server auf Basis<br> von Proxmox/Docker und eigne mir ständig neue IT-Fähigkeiten an.</h3>
 
 
 <br><br>
