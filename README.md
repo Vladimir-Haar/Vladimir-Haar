@@ -6,7 +6,7 @@
 <h3 align="center">06.2024 - 10.2024: Kurs MySQL vom Anfänger zum Experten von www.Udemy.com</h3>
 <h3 align="center">10.2024 - 01.2025: Kurs HTML5 und CSS3 inkl. responsives Webdesign und Praxis-Projekt von www.Udemy.com</h3>
 <h3 align="center">10.2024 - 03.2025: Kurs JavaScript inkl. Webdesign und Praxis-Projekt von www.Udemy.com</h3>
-<h3 align="center">03.2025 - Java Programmiersprache, SQL,Hybernate, Server</h3>
+<h3 align="center">03.2025 - Java Programmiersprache, SQL, Hybernate, GUI, Server</h3>
 
 <h3 align="center">07.2024 - 06.2026: Umschulung als Fachinformatiker Anwendungsentwicklung</h3>
 
