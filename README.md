@@ -7,7 +7,7 @@
 <h4 align="center">10.2024 - 01.2025: Kurs HTML5 und CSS3 inkl. responsives Webdesign und Praxis-Projekt von www.Udemy.com</h3>
 <h4 align="center">10.2024 - 03.2025: Kurs JavaScript inkl. Webdesign und Praxis-Projekt von www.Udemy.com</h3>
 <h4 align="center">03.2025 - 07.2025: Java Programmiersprache, SQL, Hybernate, GUI, Server</h3>
-<h4 align="center">09.2025 - heuete: Praktikum: TypeScript, React, React Native, Spring Boot, MySql und SQLite, Docker</h3>
+<h4 align="center">09.2025 - heute: Praktikum: TypeScript, React, React Native, Spring Boot, MySql und SQLite, Docker</h3>
 
 
 <h4 align="center">07.2024 - 06.2026: Umschulung als Fachinformatiker Anwendungsentwicklung</h3>
